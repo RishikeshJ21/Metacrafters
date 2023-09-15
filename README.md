@@ -1,8 +1,8 @@
-# My React Digi-fi (Digi-fi (DApp))
+# My React Digi-fi
 
-Welcome to the README for **My React Digi-fi (Digi-fi (DApp))**! This decentralized application (Digi-fi (Digi-fi (DApp))) is built using React and allows users to [briefly describe the primary functionality or purpose of your Digi-fi (Digi-fi (DApp))].
+Welcome to the README for **My React (Digi-fi (DApp))**! This decentralized application (Digi-fi ) is built using React and allows users to [briefly describe the primary functionality or purpose of your (Digi-fi (DApp))].
 
-![My React Digi-fi (Digi-fi (DApp)) Screenshot](screenshot.png)
+![My React (Digi-fi (DApp)) Screenshot](screenshot.png)
 
 ## Table of Contents
 
@@ -32,13 +32,13 @@ Make sure you have the following software installed on your system:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/my-react-Digi-fi (Digi-fi (DApp)).git
+   git clone https://github.com/your-username/my-react-(Digi-fi (DApp)).git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd my-react-Digi-fi (Digi-fi (DApp))
+   cd my-react-(Digi-fi (DApp))
    ```
 
 3. Install the project dependencies:
@@ -50,13 +50,13 @@ Make sure you have the following software installed on your system:
 
 ## Usage
 
-To start the development server and run the Digi-fi (Digi-fi (DApp)), use the following command:
+To start the development server and run the  (Digi-fi (DApp)), use the following command:
 
 ```bash
 npm start
 ```
 
-This will start the application in development mode. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the Digi-fi (Digi-fi (DApp)).
+This will start the application in development mode. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the (Digi-fi (DApp)).
 
 
 
@@ -75,4 +75,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for using **My React Digi-fi (Digi-fi (DApp))**! If you have any questions, encounter issues, or want to contribute, please feel free to reach out. Happy coding! 🚀
+Thank you for using **My React (Digi-fi (DApp))**! If you have any questions, encounter issues, or want to contribute, please feel free to reach out. Happy coding! 🚀
